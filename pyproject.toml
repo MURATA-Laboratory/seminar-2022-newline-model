@@ -12,6 +12,11 @@ pandas = "^1.5.2"
 transformers = "^4.25.1"
 torch = "^1.13.1"
 seaborn = "^0.12.1"
+isort = "^5.11.4"
+pytorch-lightning = "^1.8.6"
+scikit-learn = "^1.2.0"
+python-box = "^6.1.0"
+wandb = "^0.13.7"
 
 [tool.poetry.group.dev.dependencies]
 black = "^22.12.0"
